@@ -14,7 +14,7 @@ const AdminDashBoard = () => {
     <div className="pt-24">
       <h1 className="text-center text-5xl font-bold">List of all Tenants</h1>
       <div class="relative overflow-x-auto w-[90%] mx-auto">
-        <table class="w-full text-sm text-left  text-white">
+        <table class="w-full text-sm text-left  text-black">
           <thead class="text-xs white uppercase bg-gray-700 text-white">
             <tr>
               <th scope="col" class="px-6 py-3">

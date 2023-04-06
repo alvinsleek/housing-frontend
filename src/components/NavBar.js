@@ -31,7 +31,7 @@ const NavBar = ({ setStoredToken }) => {
       <div className="max-w-[1240px] m-auto flex justify-between items-center p-2 text-white">
         <Link to="/">
           <h1 style={{ color: `${textColor}` }} className="font-bold text-4xl ">
-            Logo
+            Sleek Realtors
           </h1>
         </Link>
         <ul style={{ color: `${textColor}` }} className="hidden sm:flex">
